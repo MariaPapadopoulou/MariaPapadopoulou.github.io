@@ -7,16 +7,15 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Maria Papadopoulou"
-
-title_separator          : "-"
-name                     :name: &name "Maria Papadopoulou"
-description              : description: &description "Assistant Professor in Digital Humanities and Classics, University of Crete"
-url                      : url: https://MariaPapadopoulou.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+locale: "en-US"
+site_theme: "default" # options: "default", "air"
+title: "Maria Papadopoulou"
+title_separator: "-"
+name: "Maria Papadopoulou"
+description: "Assistant Professor in Digital Humanities and Classics, University of Crete"
+url: "https://MariaPapadopoulou.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "MariaPapadopoulou/MariaPapadopoulou.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
