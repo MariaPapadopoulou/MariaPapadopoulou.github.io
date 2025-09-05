@@ -8,28 +8,29 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "default" # options: "default", "air"
+site_theme: "default"
 title: "Maria Papadopoulou"
 title_separator: "-"
 name: "Maria Papadopoulou"
 description: "Assistant Professor in Digital Humanities and Classics, University of Crete"
 url: "https://MariaPapadopoulou.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
+baseurl: ""
 repository: "MariaPapadopoulou/MariaPapadopoulou.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
-  avatar           : avatar: "images/profile.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar: "images/profile.jpg"
+  name: "Maria Papadopoulou"
+  pronouns: "she/her"
+  bio: "Assistant Professor in Digital Humanities and Classics at the University of Crete"
+  location: "Athens, Greece"
+  employer: "University of Crete"
+  email: "maria.papadopoulou@uoc.gr"
+
+  googlescholar: "https://scholar.google.gr/citations?hl=en&user=8P-SdxIAAAAJ"
+  orcid: "https://orcid.org/0000-0001-6451-8712"
+  github: "MariaPapadopoulou"
+  twitter: "Maria_Chlamys"
 
   # Academic websites
   academia         : # URL
